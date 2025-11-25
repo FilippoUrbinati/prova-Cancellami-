@@ -3,7 +3,9 @@
 ```mermaid
 classDiagram
     hide emptyMembers
-    class MainController
+    class MainController {
+        %% empty %%
+    }
     class ProfileListController
     class ProfileEditorController
     class SceneEditorController
