@@ -2,7 +2,7 @@
 
 ```mermaid
 classDiagram
-    hide emptyMembers
+
     class MainController {
         %% empty %%
     }
