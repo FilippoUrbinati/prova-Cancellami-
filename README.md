@@ -2,6 +2,7 @@
 
 ```mermaid
 classDiagram
+    hide emptyMembers
     class MainController
     class ProfileListController
     class ProfileEditorController
